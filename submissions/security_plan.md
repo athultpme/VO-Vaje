@@ -98,7 +98,7 @@ Timeframe: 12-18 months
 ### Phase 3 - Strategic (12-18 months)
 
 | Activity | Timeline |
-| --- | === |
+| --- | --- |
 | Finalize and exercise incident response plan | month 12-18 |
 | Implement RBAC and refine user roles | Month 12-18 |
 | Review and update all policies for compliance (e.g., GDPR) | Month 12-18 |
