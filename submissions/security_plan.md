@@ -4,7 +4,7 @@ Budget: 80,000 Euro/year
 Timeframe: 12-18 months
 
 ## 1. Security Maturity Assessment
-     GreenFields currently operates at a **low security maturity level**. The organization lacks formal risk assessments, documented policies, and security monitoring. Shared administrator credentials, unsegmented networks, and inconsistent patch management expose the company to sign there significant cyber risks. Employees are untrained, backup are stored on the same network, and there is no incident response plan. The environment is typical of a small to medium organization with minimal cybersecurity investments.
+     GreenFields currently operates at a ** low security maturity level  **. The organization lacks formal risk assessments, documented policies, and security monitoring. Shared administrator credentials, unsegmented networks, and inconsistent patch management expose the company to sign there significant cyber risks. Employees are untrained, backup are stored on the same network, and there is no incident response plan. The environment is typical of a small to medium organization with minimal cybersecurity investments.
 
 ## 2. Top 10 Security Risks
 
