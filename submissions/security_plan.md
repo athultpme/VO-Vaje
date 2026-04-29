@@ -1,12 +1,12 @@
-#Security Improvement Plan - GreenFields Food Processing Ltd
+# Security Improvement Plan - GreenFields Food Processing Ltd
 Company size: 120 employees
 Budget: 80,000 Euro/year
 Timeframe: 12-18 months
 
-##1. Security Maturity Assessment
+## 1. Security Maturity Assessment
      GreenFields currently operates at a **low security maturity level**. The organization lacks formal risk assessments, documented policies, and security monitoring. Shared administrator credentials, unsegmented networks, and inconsistent patch management expose the company to sign there significant cyber risks. Employees are untrained, backup are stored on the same network, and there is no incident response plan. The environment is typical of a small to medium organization with minimal cybersecurity investments.
 
-##2. Top 10 Security Risks
+## 2. Top 10 Security Risks
 
 1.	Unsegmented Network: Production systems are on the same LAN as corporate networks, increasing the risk of lateral movement during an attack.
 2.	Shared Administrator Credentials: Compromised admin accounts can lead to full systems takeover.
@@ -78,7 +78,7 @@ Timeframe: 12-18 months
 
 | Activity | Timeline |
 | --- | --- |
-| Define basic security policies (AUP, Password, Remote Access) | 1-3 |
+| Define basic security policies (AUP, Password, Remote Access) |Month 1-3 |
 | Roll out MFA for all users (email, VPN, M365, ERP) | Month 1-3 |
 | Launch security awareness training and first phishing simulation | Months 1-3 |
 | Improve backup strategy (3-2-1 rule, test restores) | Months 3-6 |
