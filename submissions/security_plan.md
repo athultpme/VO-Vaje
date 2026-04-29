@@ -22,11 +22,11 @@ Timeframe: 12-18 months
 ## 3. Priority Security Improvements
 
 ### Policy and Governance
-1. ***Develop Security Policies (3-6 months)***
+1. **Develop Security Policies (3-6 months)**
 •	- Create an **Acceptable Use Policy (AUP)**, **Password Policy**, **Remote Access Policy**, and **Incident Response Plan (IRP)**.
 •	- **Importance:** Establishes clear rules and accountability for security practices.
 
-2  **Formalize Risk Assessment (3-4 months)**
+2. **Formalize Risk Assessment (3-4 months)**
 •       - Perform a risk assessment using a lightweight framework (eg, NIST CSF or ISO 27001 Lite).
 •	- **Importance:** Identifies critical assets and prioritizes risks.
 
