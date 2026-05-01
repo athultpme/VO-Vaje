@@ -66,7 +66,7 @@ Timeframe: 12-18 months
    - Define roles, communication channels, and playbooks for **ransomware**, **phishing**, and **data-loss incidents**; run tabletop exercises.
    - **Importance:** Minimizes downtime, financial loss, and reputational damage after a breach.
    
-10. **Implement least-privilege access (3-6 months)**
+10.**Implement least-privilege access (3-6 months)**
    - Remove unnecessary admin rights; grant elevate privileges only to essential staff using **role-based access control (RBAC)**.
    - **Importance:** Limits the impact of compromised accounts and insider threats.
 
